@@ -159,7 +159,7 @@ At the end it prints the mean ± std over the five seeds per corruption, plus th
 
 ## Acknowledgements
 
-The degradation benchmark builds on [HyperTTA](https://doi.org/10.1016/j.neucom.2025.133188). We thank the authors for providing the [Multi-degradation Simulator code](https://github.com/halfcoder1/HyperTTA/tree/master).
+The degradation benchmark builds on [HyperTTA](https://doi.org/10.1016/j.neucom.2026.133188). We thank the authors for providing the [Multi-degradation Simulator code](https://github.com/halfcoder1/HyperTTA/tree/master).
 
 ## Contact
 
